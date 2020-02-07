@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "app.js",
+  "dependencies": {
+    "clean-css": "^4.2.1",
+    "constantinople": "^4.0.1",
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mongodb": "^3.5.2",
+    "promise": "^8.0.3",
+    "q": "^1.5.1",
+    "request": "^2.88.0",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "= <=> (=)",
+  "license": "ISC"
+}
